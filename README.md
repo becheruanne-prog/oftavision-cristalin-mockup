@@ -5,7 +5,8 @@ Export Claude Design, un singur fișier, fără dependențe externe.
 
 ## Conținut
 
-`index.html` — mockup complet, 10 pagini din categorie. Textul medical aparține
+`index.html` — mockup complet, versiunea din 30 august 2026.
+Cuprinde legăturile către cele 22 de pagini din `/afectiuni-oculare/cristalin/`. Textul medical aparține
 Dr. Alina Gheorghe și este preluat literal din Batch 2 (Cristalin), iulie 2026.
 
 Fișierul este autonom: stiluri, scripturi și imagini sunt incluse în el.
